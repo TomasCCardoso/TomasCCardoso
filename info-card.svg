@@ -1,0 +1,53 @@
+<svg viewBox="0 0 716 228" width="716" height="228"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="card-round">
+      <rect x="0.5" y="0.5" width="715" height="227" rx="10" ry="10" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#card-round)">
+    <rect x="0" y="0" width="716" height="228" fill="#0d1117" />
+    <rect x="0" y="0" width="716" height="34" fill="#161b22" />
+    <circle cx="22" cy="17.0" r="5.5" fill="#ff5f56" /><circle cx="40" cy="17.0" r="5.5" fill="#ffbd2e" /><circle cx="58" cy="17.0" r="5.5" fill="#27c93f" />
+    <text x="358.0" y="21.0" text-anchor="middle"
+          font-family="'SFMono-Regular','Consolas','Menlo',monospace" font-size="12" fill="#8b949e">tomas@feup: ~</text>
+    
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <animateTransform attributeName="transform" type="translate" from="-14,0" to="0,0" begin="0.15s" dur="0.5s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <text x="22" y="70" font-family="'SFMono-Regular','Consolas','Menlo',monospace" font-size="14">
+        <tspan fill="#39d353" font-weight="600">Now:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">Eng. Eletrotécnica e de Computadores @ FEUP (3º ano)</tspan>
+      </text>
+    </g>
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" from="0" to="1" begin="0.32999999999999996s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <animateTransform attributeName="transform" type="translate" from="-14,0" to="0,0" begin="0.32999999999999996s" dur="0.5s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <text x="22" y="100" font-family="'SFMono-Regular','Consolas','Menlo',monospace" font-size="14">
+        <tspan fill="#39d353" font-weight="600">Foco:&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">Telecomunicações</tspan>
+      </text>
+    </g>
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" from="0" to="1" begin="0.51s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <animateTransform attributeName="transform" type="translate" from="-14,0" to="0,0" begin="0.51s" dur="0.5s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <text x="22" y="130" font-family="'SFMono-Regular','Consolas','Menlo',monospace" font-size="14">
+        <tspan fill="#39d353" font-weight="600">Estágio:&#160;&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">Automação Industrial — Pirotecnia Duarte</tspan>
+      </text>
+    </g>
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" from="0" to="1" begin="0.6900000000000001s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <animateTransform attributeName="transform" type="translate" from="-14,0" to="0,0" begin="0.6900000000000001s" dur="0.5s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <text x="22" y="160" font-family="'SFMono-Regular','Consolas','Menlo',monospace" font-size="14">
+        <tspan fill="#39d353" font-weight="600">Stack:&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">C/C++ · Python · LTspice · Excel</tspan>
+      </text>
+    </g>
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" from="0" to="1" begin="0.87s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <animateTransform attributeName="transform" type="translate" from="-14,0" to="0,0" begin="0.87s" dur="0.5s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <text x="22" y="190" font-family="'SFMono-Regular','Consolas','Menlo',monospace" font-size="14">
+        <tspan fill="#39d353" font-weight="600">Highlights:&#160;</tspan><tspan fill="#c9d1d9">Bombeiro Voluntário · Motostudent FEUP (equipa elétrica, já cessada)</tspan>
+      </text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="715" height="227" rx="10" ry="10"
+        fill="none" stroke="#30363d" />
+</svg>
