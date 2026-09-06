@@ -44,7 +44,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="0.87s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
       <animateTransform attributeName="transform" type="translate" from="-14,0" to="0,0" begin="0.87s" dur="0.5s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
       <text x="22" y="190" font-family="'SFMono-Regular','Consolas','Menlo',monospace" font-size="14">
-        <tspan fill="#39d353" font-weight="600">Highlights:&#160;</tspan><tspan fill="#c9d1d9">Bombeiro Voluntário · Motostudent FEUP (equipa elétrica, já cessada)</tspan>
+        <tspan fill="#39d353" font-weight="600">Highlights:&#160;</tspan><tspan fill="#c9d1d9">Bombeiro Voluntário · Motostudent FEUP (2025 - 2026)</tspan>
       </text>
     </g>
   </g>
